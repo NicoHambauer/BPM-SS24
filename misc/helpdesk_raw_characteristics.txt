@@ -1,8 +1,0 @@
-Number of CaseID 4580
-Number of Unique Activities 14
-Number of Activities 21348
-Max length trace 15
-Avg length trace 4.661135371179039
-Min length trace 2
-Max duration 59 days, 23:52:45
-Avg duration 40 days, 20:36:06.420961
